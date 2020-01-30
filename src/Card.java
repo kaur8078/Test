@@ -14,7 +14,8 @@ public class Card {
     //Hearts,Spades,Diamonds,Clubs
 
         private int value;
-        private String Aman;
+        private String Saman;
+    
         public Card(String givenSuit,int givenValue)
         {
             suit=givenSuit;
