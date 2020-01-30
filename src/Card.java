@@ -9,8 +9,7 @@
  * @author test Aman
  */
 public class Card {
-//jdgdk
-    // jabva
+
     private String suit;
     //Hearts,Spades,Diamonds,Clubs
 
