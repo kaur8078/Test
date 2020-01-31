@@ -16,7 +16,7 @@ public class Card {
 
         private int value;
         private String Jashan;
-    
+        private String mom;
         public Card(String givenSuit,int givenValue)
         {
             suit=givenSuit;
